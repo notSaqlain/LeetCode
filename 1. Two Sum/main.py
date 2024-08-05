@@ -13,5 +13,9 @@ class Solution(object):
 
 
 def main():
-  sum = solution()
+    sum = Solution()
+    print(sum.twoSum([2, 7, 11, 15], 9)) # [0, 1]
 
+
+if __name__ == "__main__":
+    main()
