@@ -1,3 +1,5 @@
+# Link: https://leetcode.com/problems/contains-duplicate/
+
 from collections import defaultdict
 from typing import List
 
