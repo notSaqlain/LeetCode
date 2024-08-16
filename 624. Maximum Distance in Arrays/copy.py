@@ -1,3 +1,5 @@
+# Link : https://leetcode.com/problems/maximum-distance-in-arrays/
+
 class Solution(object):
     def maxDistance(self, arrays):
         smallest = arrays[0][0]
