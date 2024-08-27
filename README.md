@@ -1,19 +1,20 @@
 # LeetCode
 
-list all the problems solved in LeetCode
-
 ## Problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Python/1_Two_Sum.py)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](./Python/2_Add_Two_Numbers.py)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./Python/3_Longest_Substring_Without_Repeating_Characters.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./Python/4_Median_of_Two_Sorted_Arrays.py)|Hard|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/5_Longest_Palindromic_Substring.py)|Medium|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](./Python/6_ZigZag_Conversion.py)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](./Python/7_Reverse_Integer.py)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](./Python/8_String_to_Integer.py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./Python/9_Palindrome_Number.py)|Easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](./Python/10_Regular_Expression_Matching.py)|Hard|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./Python/11_Container_With_Most_Water.py)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./Python/21_Merge_Two_Sorted_Lists.py)|Easy|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](./Python/43_Multiply_Strings.py)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./Python/66_Plus_One.py)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Python/121_Best_Time_to_Buy_and_Sell_Stock.py)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./Python/136_Single_Number.py)|Easy|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](./Python/143_Reorder_List.py)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Python/167_Two_Sum_II_Input_array_is_sorted.py)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./Python/206_Reverse_Linked_List.py)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217_Contains_Duplicate.py)|Easy|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./Python/238_Product_of_Array_Except_Self.py)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./Python/263_Ugly_Number.py)|Easy|
