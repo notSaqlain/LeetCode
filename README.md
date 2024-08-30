@@ -18,3 +18,4 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Python/217_Contains_Duplicate.py)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./Python/238_Product_of_Array_Except_Self.py)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./Python/263_Ugly_Number.py)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Python](./Python/264_Ugly_Number_II.py)|Medium|
